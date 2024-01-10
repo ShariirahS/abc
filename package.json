@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShariirahS/abc.git"
+  },
+  "keywords": [],
   "author": "program writer <myemail@gmail.com> (https://mywebsite.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/ShariirahS/abc"
 }
